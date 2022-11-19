@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>
+            HARINI REDDY
+        </title>
+        <style>
+            h1{
+                background-color: aqua;
+                color: white;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Harini</h1>
+    
+
+    </body>
+</html>
